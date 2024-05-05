@@ -22,8 +22,8 @@ O programa solicita ao usuário que insira a palavra secreta. Em seguida, ele su
 ## Exemplo de Uso
 
 ```
-Digite a palavra secreta: abacaxi
-_ _ _ _ _ _ _ _
+Digite a palavra secreta:abacaxi
+_ _ _ _ _ _ _
 ```
 
 ## Contribuição
